@@ -5,6 +5,7 @@ Grille photo minimaliste avec effet au survol.
 
 ## Screenshots
 
+Responsive Desktop, Tablet, Mobile
 ![App Screenshot](https://github.com/CarolineSenes/Photo_Grid/blob/master/assets/responsive.jpg)
 
   
